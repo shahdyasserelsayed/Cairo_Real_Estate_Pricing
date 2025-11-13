@@ -1,0 +1,26 @@
+column,n_missing,pct_missing,proposal
+compound_name,427,0.23461538461538461,Investigate and impute/drop/encode
+listing_id,0,0.0,Investigate and impute/drop/encode
+price_egp,0,0.0,Investigate and impute/drop/encode
+bedrooms,0,0.0,Investigate and impute/drop/encode
+area_sqm,0,0.0,Investigate and impute/drop/encode
+bathrooms,0,0.0,Investigate and impute/drop/encode
+floor_number,0,0.0,Investigate and impute/drop/encode
+building_age_years,0,0.0,Investigate and impute/drop/encode
+district,0,0.0,Investigate and impute/drop/encode
+distance_to_auc_km,0,0.0,Investigate and impute/drop/encode
+distance_to_mall_km,0,0.0,Investigate and impute/drop/encode
+distance_to_metro_km,0,0.0,Investigate and impute/drop/encode
+finishing_type,0,0.0,Investigate and impute/drop/encode
+has_balcony,0,0.0,Investigate and impute/drop/encode
+has_parking,0,0.0,Investigate and impute/drop/encode
+has_security,0,0.0,Investigate and impute/drop/encode
+has_amenities,0,0.0,Investigate and impute/drop/encode
+view_type,0,0.0,Investigate and impute/drop/encode
+listing_date,0,0.0,Investigate and impute/drop/encode
+days_on_market,0,0.0,Investigate and impute/drop/encode
+seller_type,0,0.0,Investigate and impute/drop/encode
+is_negotiable,0,0.0,Investigate and impute/drop/encode
+price_per_sqm,0,0.0,Investigate and impute/drop/encode
+listing_month,0,0.0,Investigate and impute/drop/encode
+listing_year,0,0.0,Investigate and impute/drop/encode
